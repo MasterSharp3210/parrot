@@ -20,4 +20,4 @@ To compile extra-recipe you have to manually compile dll project and piccione pr
 I'm working on a future exploit to bypass permission escalation and so inject DLLs into classmate programs that are executed with elevated privileges
 
 # Thanks to <3
-Thanks @franciplay for **piccione** exploit <3
+Thanks @franciplay for **piccione** exploit <3. Thanks in general TY <3
