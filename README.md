@@ -1,4 +1,4 @@
-# a pigeon that bypasses!?
+# [OLD] a pigeon that bypasses!?
 ![P4rr0t](parrot.png)
 A multi exploit process to self-kill management softwares
 
